@@ -1,6 +1,3 @@
-# 💫 About Me:
-I am currently working on a web project titled E-Cars.<br>I am passionate about discovering new concepts and conducting independent research.<br>I have a strong aptitude for learning new technologies and quickly adapting to them. <br>My problem-solving skills are excellent.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahman-yehia-08803a225) 
