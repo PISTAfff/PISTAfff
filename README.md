@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahman-yehia-08803a225)
 
-[![My Portfolio](https://img.shields.io/badge/My_Portfolio-%230077B5.svg?logo=globe&logoColor=white)](https://pistas-spot.vercel.app/)
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio-%230077B5.svg?logo=globe&logoColor=white)](https://pistasspot.com/)
 
 
 # 💻 Tech Stack:
