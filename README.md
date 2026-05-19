@@ -1,6 +1,6 @@
 <h1 align="center">PISTA</h1>
 <p align="center">
-  <a href="https://pistasspot.com/"><img src="https://img.shields.io/badge/Portfolio-pistasspot.com-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://pistasspot.com/"><img src="https://img.shields.io/badge/Portfolio-pistasspot.com-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -36,7 +36,6 @@ Hi, I'm **PISTA**. I make games, ship full-stack tools, and turn off-hour curios
 **Game Dev**
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 ![PixiJS](https://img.shields.io/badge/PixiJS-E91E63?style=for-the-badge&logo=javascript&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
@@ -83,12 +82,10 @@ Hi, I'm **PISTA**. I make games, ship full-stack tools, and turn off-hour curios
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
